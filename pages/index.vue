@@ -5,7 +5,7 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import Comments from "~/pages/Posts.vue";
+import Posts from "~/pages/Posts.vue";
 
 export default defineComponent({
   name: 'HomePage',
